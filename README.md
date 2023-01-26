@@ -1,4 +1,6 @@
-# task-aula02-grupo03
+Integrantes:
+
+Asaf Araujo
 
 ## Integrantes do grupo: 
 
@@ -8,3 +10,4 @@
 ### **Kellvin Correia**
 ### **Matheus Palermo**
 ### **Rodrigo Krummenauer**
+
